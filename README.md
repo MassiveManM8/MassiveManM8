@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @MassiveManM8
-- 👀 I’m interested in codin i guess
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on cs:go, (my profile hmu: https://steamcommunity.com/id/Mountainous_Massive_manly_man_m8/)
-- 📫 How to reach me: do'nt
+'Ello! m8
+
+This is the official Github page of @MassiveManM8
+
+- this is where i upload random projects that i work on, everything thats here is free to yoink, so feel free to use it :)
+
 
 
 <!---
